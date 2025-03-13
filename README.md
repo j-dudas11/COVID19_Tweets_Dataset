@@ -355,8 +355,7 @@ algorithm
 </tbody>
 </table>
 
-For more information visit: [Twitter
-API](https://developer.twitter.com/en/docs) and the [Documentation for
+For more information visit: [Documentation for
 API
 Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object)
 
